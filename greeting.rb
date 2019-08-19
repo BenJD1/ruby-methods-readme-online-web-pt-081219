@@ -1,4 +1,4 @@
-def say_hello  greeting 
+def greeting 
   puts "Hello World"
 end
 
